@@ -6,5 +6,5 @@ Tenho conhecimentos intermediários nas linguagens C e C#, mas ainda tenho o que
 
 ![octocat-1736305401653](https://github.com/user-attachments/assets/66c6d2af-855a-45c7-8afe-5839d315b403)
 
-## Meu linkedin:
-## https://www.linkedin.com/in/marisantcs/
+Meu linkedin:
+https://www.linkedin.com/in/marisantcs/
